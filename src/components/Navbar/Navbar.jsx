@@ -4,6 +4,7 @@ import { motion } from 'framer-motion';
 
 import images from '../../constants/images';
 import './Navbar.scss';
+import Resume from '../../assets/resume.pdf'
 
 const Navbar = () => {
     const [toggle, setToggle] = useState(false);
@@ -22,7 +23,7 @@ const Navbar = () => {
                 ))}
             </ul>
             <div className="button">
-                <a href="#resume">
+                <a href={Resume}>
                     <button className='resume__btn'>Resume</button>
                 </a>
             </div>

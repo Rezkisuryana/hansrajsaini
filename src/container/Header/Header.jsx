@@ -7,6 +7,7 @@ import { AiOutlineMail } from 'react-icons/ai';
 import { BsFillPersonLinesFill } from 'react-icons/bs';
 import { FaGithub, FaLinkedinIn } from 'react-icons/fa';
 import { AppWrap, MotionWrap } from '../../wrapper';
+import Resume from '../../assets/resume.pdf'
 
 const scaleVariants = {
     whileInView: {
@@ -59,7 +60,7 @@ const Header = () => {
                                 <AiOutlineMail />
                             </div>
                         </a>
-                        <a href='/resume'>
+                        <a href={Resume}>
                             <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
                                 <BsFillPersonLinesFill />
                             </div>
