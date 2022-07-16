@@ -21,19 +21,18 @@ const About = () => {
                         Hi I'am Hansraj Saini
                     </p>
                     <p className='py-2 text-gray-600 text-sm'>
-                        Well, I’ve been working on web app development for two years now, while still studying at college. Had my own projects, coded mostly in Node JS and React JS, I have lerned a lot while working on this projects. Now I am looking to get a intership to get some experience, and am glad to be interviewing with you here.
+                        Well, I’ve been working on web app development for two years now, while still studying at college. Having my own projects, coded mostly in Node JS and React JS, I have learned a lot while working on these projects. Now I am looking to get an internship to get some experience, and am glad to be interviewing with you here.
 
                     </p>
                     <p className='py-2 text-gray-600'>
-                        This are the some qualities which I think sets me apart from other candidates
+                        These are some qualities that I think sets me apart from other candidates
 
                     </p>
                     <p className='py-2 text-gray-600 flex text-sm'>
                         <IoMdArrowDropright />  One of the things that distinguish me from other candidates is that I am able to remain calm and focused no matter how difficult the task. I always try to stay positive and find a way out. I am sure that everything happens for a reason and that any mistake can be fixed.
-
                     </p>
                     <p className='py-2 text-gray-600 flex text-sm'>
-                        <IoMdArrowDropright />  I am a quick learner and constantly improve my skills not only in the professional but also in multiple other fields. If hired for the position, I will continue to learn and transfer obtained knowledge and skills to other team members.
+                        <IoMdArrowDropright />  I am a quick learner and constantly improve my skills not only in professional but also in multiple other fields. If hired for the position, I will continue to learn and transfer obtained knowledge and skills to other team members.
 
                     </p>
                     <p className='py-2 text-gray-600 flex text-sm'>
